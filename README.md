@@ -4,12 +4,12 @@ A powerful and dynamic Flutter application for mapping functionalities. This app
 
 ##  Features
 
-* ** Interactive Maps:** Explore locations with zoom and panning features.
-* ** Current Location:** Pinpoint the user's current location in real-time.
-* ️** Dynamic Markers:** Add, move, or customize map markers.
-* ** Search Locations:** Find specific places using search functionality.
-* ** Customizable Map Styles:** Switch between map themes (satellite, terrain, standard, etc.).
-* ** Geolocation Services:** Seamless integration with GPS for accurate location tracking.
+*  Interactive Maps: Explore locations with zoom and panning features.
+*  Current Location: Pinpoint the user's current location in real-time.
+* ️Dynamic Markers: Add, move, or customize map markers.
+*  Search Locations: Find specific places using search functionality.
+*  Customizable Map Styles: Switch between map themes (satellite, terrain, standard, etc.).
+* Geolocation Services: Seamless integration with GPS for accurate location tracking.
 
 ## ️ Technologies Used
 
